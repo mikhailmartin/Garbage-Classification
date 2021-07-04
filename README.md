@@ -1,7 +1,7 @@
-# Garbafe Classification
-This project was implemented as part of the Bachelor's FQP (final qualifying work).  
-I had to choose a theme for the FQP, and when I saw the video below on instagram, I immediately decided that I needed to try to do something similar.
-Initially, there was no knowledge in the field of Computer Vision, so I managed to make only a neural network-classifier of digital images of garbage.
+# Garbage Classification
+This project was implemented as a part of the Bachelor's FQP (final qualifying work).  
+I had to choose a theme for the FQP, and when I saw the video below on instagram, I immediately decided that I need to try to create something similar.
+Initially, I had no knowledge in the field of Computer Vision, so I managed to make only a neural network-classifier of digital images of garbage.
 ![](https://github.com/bringmetohappiness/Garbage-Classification/blob/master/visualization/motivation.gif)
 ## Dataset
 Stored in the "dataset" folder. [Kaggle dataset](https://www.kaggle.com/asdasdasasdas/garbage-classification) was taken as a basis.
@@ -24,7 +24,7 @@ Confusion matrix after training:
 # Interpreter and environment
 I used [Python 3.8.3](https://www.python.org/downloads/release/python-383/) interpreter.
 
-I recommend using a virtual environment. It can be created with the following command:
+I recommend to use a virtual environment. It can be created with the following command:
 ```
 python -m venv env
 ```
